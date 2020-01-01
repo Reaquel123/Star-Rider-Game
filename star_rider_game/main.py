@@ -13,8 +13,9 @@ screen = pygame.display.set_mode((800, 600))
 background = pygame.image.load("background.png")
 
 # Background Sound
-mixer.music.load("background.wav")
-mixer.music.play(-1)
+# Github 25 mb üstü dosya atmaya izin vermedi. O yüzden background müziği yok.
+# mixer.music.load("background.wav")
+# mixer.music.play(-1)
 
 # Title and Icon
 pygame.display.set_caption("Star Rider")
