@@ -20,3 +20,5 @@
   Star Rider oyun başında ekranın alt ortasında ortaya çıkar.
   Star Rider sağ ok tuşuyla sağa, sol ok tuşuyla da sola hareket edebilir.
   Star Rider boşluk tuşuyla ateş edebilir.
+
+ # Hazırlayan: Ali Cemre Tarhan
